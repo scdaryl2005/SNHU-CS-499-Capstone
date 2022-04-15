@@ -1,0 +1,351 @@
+Details on Caribbean Flamingos
+Details on Red Ruffed Lemur
+Details on Black and White Lemur
+Details on Hyenas
+Details on Black Bear
+Details on Spectacled Bear
+Details on Komodo Dragons
+Details on Gibbons
+Details on Langurs
+Details on Asian Small-Clawed Otters
+Details on Caracal
+Details on Clouded Leopard
+Details on Black-Footed Cat
+Details on Fresh Water Animals
+Details on Saltwater Animals
+Details on Snakes
+Details on Turtles
+Details on Lizards
+Details on Jaguars
+Details on Hippos
+Details on Nile Crocodile
+Details on Okapi
+Details on African Wild Dogs
+Details on Dwarf Mongoose
+Details on Columbus Monkeys
+Details on Lions
+Details on Zebras
+Details on Ostriches
+Details on Sitatunga
+Details on Cranes
+Details on Giraffes
+Details on White Rhinos
+Details on Kangaroos
+Details on Frogs
+Details on Toads
+Details on Salamanders
+Details on Cassowaries
+Details on Tree Kangaroos
+Details on Red Kangaroos
+
+Animal - Caribbean Flamingos
+Quantity: 15
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Continual Grazing
+
+Animal - Red Ruffed Lemur
+Quantity: 4
+Sex: Two Male, Two Female
+Name: Fred, Wilma, Barney, Betty
+Age: 3, 2, 4, 5
+*****Health concerns: Barney has a limp on his right leg
+Feeding schedule: Twice Daily
+
+Animal - Black and White Lemur
+Quantity: 4
+Sex: Four Male
+Name: Leonardo, Raphael, Donatello, Michelangelo
+Age: 1
+Health concerns: None
+Feeding schedule: Twice Daily
+
+Animal - Hyenas
+Quantity: 2
+Sex: 1 Male, 1 Female
+Name: Freckels, Spots
+Age: 4, 7
+Health concerns: Spots is not eating
+Feeding schedule: Three Times a Day
+
+Animal - Black Bear
+Quantity: 2
+Sex: Two Male
+Name: Yogi, BooBoo
+Age: 1, 3
+Health concerns: None
+Feeding schedule: Three Times a Day
+
+Animal - Spectacled Bear
+Quantity: 1
+Sex: Male
+Name: Baloo
+Age: 6
+Health concerns: Cut on Front Left Paw
+Feeding schedule: Three Times a Day
+
+Animal - Komodo Dragos
+Quantity: 2
+Sex: One Male, One Female
+Name: Logan, Avery
+Age: 2, 3
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Gibbons
+Quantity: 5
+Sex: Five Males
+Name: Tim, Tony, Manu, David, George
+Age: 1, 2, 3, 4, 5
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Langurs
+Quantity: 3
+Sex: Three Males
+Name: Ford, Chevy, Dodge
+Age: 7, 8, 9
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Asian Small-Clawed Otters
+Quantity: 4
+Sex: One Male, Three Female
+Name: Jeff, Stephanie, Karen, Pam
+Age: 2, 4, 3, 3
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Caracal
+Quantity: 1
+Sex: Female
+Name: Susan
+Age: 3
+*****Health concerns: Chipped front right canine tooth
+Feeding schedule: Three Times a Day
+
+Animal - Clouded Leopard
+Quantity: 1
+Sex: Female
+Name: Summer
+Age: 5
+Health concerns: None
+Feeding schedule: Three Times a Day
+
+Animal - Black-Footed Cat
+Quantity: 1
+Sex: Male
+Name: Anthony
+Age: 10
+*****Health concerns: Overweight
+Feeding schedule: Twice a Day (reduced from three)
+
+Animal - Fresh Water Animals
+Quantity: Various
+Sex: Unknown
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Various
+
+Animal - Saltwater Animals
+Quantity: Various
+Sex: Unknown
+Name: Various
+Age: Various
+*****Health concerns: Salinity of several tanks is not ideal
+Feeding schedule: Various
+
+Animal - Snakes
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+*****Health concerns: Several Snakes Are Shedding
+Feeding schedule: Once a Day
+
+Animal - Turtles
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Lizards
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Jaguars
+Quantity: 4
+Sex: One Male, One Female, Two Male Cubs
+Name: B'alam, Arizona, Liam, Milan
+Age: 3, 3, 1, 1
+Health concerns: None
+Feeding schedule: Three Times a Day
+
+Animal - Hippos
+Quantity: 2
+Sex: One Male, One Female
+Name: Timothy, Uma
+Age: 4, 4
+Health concerns: Uma has a broken left bottom tusk
+Feeding schedule: Grazing
+
+Animal - Nile Crocodile
+Quantity: 1
+Sex: Female
+Name: Nile Degrass Tyson
+Age: 12
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Okapi
+Quantity: 2
+Sex: One Male, One Female
+Name: Opi, Donna
+Age: 2, 3
+Health concerns: Opi has a head injury
+Feeding schedule: Grazing
+
+Animal - African Wild Dogs
+Quantity: 6
+Sex: Male
+Name: Issac, Jeff, Scott, Kyle, Andre, Casey
+Age: 3, 4, 5, 6, 7, 8
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Dwarf Mongoose
+Quantity: 2
+Sex: One Male, One Female
+Name: Jack, Jill
+Age: 1, 1
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Columbus Monkeys
+Quantity: 7
+Sex: Three Male, Four Female
+Name: Tyler, Alex, Zach, Kaycie, Maddie, Nala, Jackie
+Age: 2, 2, 3, 2, 2, 3, 4
+*****Health concerns: Nala is sick
+Feeding schedule: Twice a Day
+
+Animal - Lions
+Quantity: 4
+Sex: One Male, Three Female
+Name: Simba, Sarafina, Sarabi, Rani
+Age: 2, 2, 2, 2
+Health concerns: Simba has a cut on his front right paw
+Feeding schedule: Three Times a Day
+
+Animal - Zebras
+Quantity: 10
+Sex: Five Male, Five Female
+Name: Wayne, Dan, Daryl, Riley, Jones, Katy, Gail, Tanis, Rosie, Anik
+Age: 11, 12, 10, 10, 13, 12, 11, 13, 14, 12
+Health concerns: None
+Feeding schedule: Grazing
+
+Animal - Ostriches
+Quantity: 6
+Sex: Three Male, Three Female
+Name: Can't Fly, Fuzzy, Droopy, Speedy, Cheesecake, Pepper
+Age: 5, 5, 4, 4, 3, 3
+Health concerns: None 
+Feeding schedule: Grazing
+
+Animal - Sitatunga
+Quantity: 4
+Sex: One Male, Three Female
+Name: Donald, Loretta, Traci, Katelynn
+Age: 6, 5, 4, 2
+Health concerns: None
+Feeding schedule: Grazing
+
+Animal - Cranes
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: Some of the Cranes Are Not Eating
+Feeding schedule: Twice a Day
+
+Animal - Giraffes
+Quantity: 2
+Sex: One Male, One Female
+Name: Estevan, Gloria
+Age: 1, 1
+Health concerns: None
+Feeding schedule: Grazing
+
+Animal - White Rhinos
+Quantity: 2
+Sex: One Male, One Female
+Name: Adam, Eve
+Age: 13, 12
+*****Health concerns: Adam has a broken horn
+Feeding schedule: Grazing
+
+Animal - Kangaroo
+Quantity: 4
+Sex: Male
+Name: James, Kirk, Lars, Danny
+Age: 2, 2, 2, 2
+Health concerns: None 
+Feeding schedule: Twice a Day
+
+Animal - Frogs
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Various
+
+Animal - Toads
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Various
+
+Animal - Salamanders
+Quantity: Various
+Sex: Various
+Name: Various
+Age: Various
+Health concerns: None
+Feeding schedule: Various 
+
+Animal - Cassowaries
+Quantity: 2
+Sex: Male
+Name: Freddie, Eddie
+Age: 6, 6
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Tree Kangaroos
+Quantity: 2
+Sex: Female
+Name: Emma, Autumn
+Age: 2, 4
+Health concerns: None
+Feeding schedule: Twice a Day
+
+Animal - Red Kangaroos
+Quantity: 3
+Sex: One Male, One Female, One Juvenile Male
+Name: Red, Violet, Blue
+Age: 3, 4, 6 Months
+*****Health concerns: Blue is deaf
+Feeding schedule: Twice a Day

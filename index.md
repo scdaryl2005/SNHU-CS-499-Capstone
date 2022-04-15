@@ -84,7 +84,7 @@ The artifact I chose for Enhancement 2 was from CS-260-J1278 Data Structures and
 
 I chose to include the vector artifact from CS-260 to satisfy the requirements for data structures and algorithms.  This artifact was initially created to showcase the skills of implementing data structures and algorithms.  Utilizing the vector data structure, different bids could be either loaded directly into the program, or called upon using the load function, which is what was used to import all the bids from the attached CSV file.  It is because Vectors were the foundation which everything else was built upon, I have included it within my portfolio of work.  The specific components that showcased my skills in data structures and algorithms was the vector sorting data structure, which allowed me to utilize the algorithm to partition the .csv file and sort it by other methods than simply a high or low.  The selection sort and quick sort logic were used to divide the list into a low and high section that was then used to display the desired sorting method.  The main enhancement I made to this artifact was to incorporate the linked list algorithm and added additional features such as allowing the user to enter, find, remove, and prepend a bid.
 
-The original, enhanced, and narrated artifacts can be found using this link.
+The original, enhanced, and narrated artifacts can be found using this [Enhancement One](https://github.com/scdaryl2005/SNHU-CS-499-Capstone/tree/main/Enhancement%20One) link.
 
 Below is the full list of enhancements I made to this artifact:
 
@@ -103,7 +103,7 @@ Below is the full list of enhancements I made to this artifact:
 
 Reflecting on the process of enhancing this artifact, I learned many things from its initial design.  The biggest take away was how valuable reusable code can be.  Taking the initial artifact and expanding its complexity to incorporate additional features shows how reusable code can be invaluable to a programmer.  Rather than starting from scratch, I could take the linked list code, modify it, and incorporate it into my main artifact.  The only challenges I faced were minor adjustments to the code to get it to compile properly once I incorporated the linked list features.  
 
-The original, enhanced, and narrated artifacts can be found using this link.
+The original, enhanced, and narrated artifacts can be found using this [Enhancement Two](https://github.com/scdaryl2005/SNHU-CS-499-Capstone/tree/main/Enhancement%20Two) link.
 
 # Enhancement Three - Databases
 
